@@ -58,7 +58,7 @@ Ordered
 
 Some parts of code snippets :)\_\_
 
-````css
+```css
 &::after {
       position: absolute;
       content: "";
@@ -89,4 +89,4 @@ Some parts of code snippets :)\_\_
 
 ```bash
 npm install
-````
+```
