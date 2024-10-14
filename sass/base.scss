@@ -1,0 +1,57 @@
+:root {
+  //colors
+  --color-primary: rgb(0, 255, 247);
+  --color-text: hsl(215, 51%, 70%);
+  --color-body-background: hsl(217, 54%, 11%);
+  --color-card-background: hsl(216, 50%, 16%);
+  --color-line: hsl(215, 32%, 27%);
+  --color-highlight-text: hsl(0, 0%, 1000%);
+}
+//////////////
+/// UTILITY CLASS
+.margin-bottom-md {
+  margin-bottom: 2rem;
+}
+
+///////////////////////////////
+/// MEDIA-QUERIES
+$bp-large: 68.75em; //1100px
+$bp-medium: 56.25em; //900px
+$bp-small: 43.75em; //700px
+$bp-smallest: 37.5em; //600px
+$bp-smaller: 25em; //400px
+//////////////////////////
+/// BASIC SETTINGS
+
+html {
+  font-size: 62.5%; //10px as default font size chnaged for fast calculation{10/16*100}
+  box-sizing: border-box;
+  @media only screen and (max-width: $bp-large) {
+    font-size: 50%;
+  }
+}
+body {
+  font-family: "Outfit", sans-serif;
+  font-weight: 300;
+  line-height: 1.6;
+  min-height: 100vh;
+  background-color: var(--color-body-background);
+}
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+.attribution {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 11px;
+  color: var(--color-highlight-text);
+}
+.attribution a {
+  color: var(--color-primary);
+}
