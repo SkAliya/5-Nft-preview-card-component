@@ -28,8 +28,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [NFT preview card component (Tailwind CSS) | Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-design-of-nft-card-built-with-html5-and-css3-HfiT_hB6Zi)
-- Live Site URL: [https://nft-preview-card-component-hdez.vercel.app/](https://skaliya.github.io/5-Nft-preview-card-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-design-of-nft-card-built-with-html5-and-css3-HfiT_hB6Zi]
+- Live Site URL: [https://skaliya.github.io/5-Nft-preview-card-component/]
 
 <br>
 ## Table of contents
@@ -75,7 +75,7 @@ Some parts of code snippets :eyes:
 <!-- Bagdes -->
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/CSS-38B2AC?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - Semantic HTML5 markup
