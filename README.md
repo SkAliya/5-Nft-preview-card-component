@@ -10,7 +10,7 @@
 <div align="center">
   <!-- Profile -->
   <a href="https://www.frontendmentor.io/profile/SkAliya">
-    <img src="https://img.shields.io/badge/Profile-Melvin%20Aguilar-07043B?style=for-the-badge&logo=frontendmentor" alt="Aliya Profile">
+    <img src="https://img.shields.io/badge/Profile-Aliya%20Aguilar-07043B?style=for-the-badge&logo=frontendmentor" alt="Aliya Profile">
   </a>
   <!-- Status -->
     <a href="#">
@@ -23,13 +23,13 @@
 ![solution preview](./design/desktop-preview.jpg)
 
 </div>
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-design-of-nft-card-built-with-html5-and-css3-HfiT_hB6Zi). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [NFT preview card component (Tailwind CSS) | Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-tailwind-css-FN3tcexyJI)
-- Live Site URL: [https://nft-preview-card-component-hdez.vercel.app/](https://nft-preview-card-component-hdez.vercel.app/)
+- Solution URL: [NFT preview card component (Tailwind CSS) | Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-design-of-nft-card-built-with-html5-and-css3-HfiT_hB6Zi)
+- Live Site URL: [https://nft-preview-card-component-hdez.vercel.app/](https://skaliya.github.io/5-Nft-preview-card-component/)
 
 <br>
 ## Table of contents
@@ -48,7 +48,7 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-## My process 8-)
+## My process :smile:
 
 Ordered
 
@@ -56,7 +56,7 @@ Ordered
 2. Another useful CSS property's are **::after** ,**::before** pesudo-classes.
 3. The above CSS properties are used in this challange.
 
-Some parts of code snippets :)\_\_
+Some parts of code snippets :eyes:
 
 ```css
 &::after {
