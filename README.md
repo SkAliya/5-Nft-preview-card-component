@@ -10,7 +10,7 @@
 <div align="center">
   <!-- Profile -->
   <a href="https://www.frontendmentor.io/profile/SkAliya">
-    <img src="https://img.shields.io/badge/Profile-Aliya%20Aguilar-07043B?style=for-the-badge&logo=frontendmentor" alt="Aliya Profile">
+    <img src="https://img.shields.io/badge/Profile-Aliya%20-07043B?style=for-the-badge&logo=frontendmentor" alt="Aliya Profile">
   </a>
   <!-- Status -->
     <a href="#">
